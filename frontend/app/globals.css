@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-bg: 247 245 242;       /* #F7F5F2 warm ivory */
+  --color-sidebar: 50 66 54;     /* #324236 deep forest */
+  --color-card: 236 231 223;     /* #ECE7DF soft stone */
+  --color-accent: 166 90 74;     /* #A65A4A terracotta */
+  --color-accent2: 122 140 99;   /* #7A8C63 olive */
+  --color-text: 34 34 34;        /* #222222 */
+  --color-muted: 107 100 89;     /* warm gray */
+  --color-border: 215 210 202;   /* #D7D2CA */
+}
+
+.dark {
+  --color-bg: 26 24 21;          /* deep warm charcoal */
+  --color-sidebar: 22 30 25;     /* darker forest */
+  --color-card: 36 33 28;        /* warm dark stone */
+  --color-accent: 201 123 98;    /* brighter terracotta for contrast */
+  --color-accent2: 147 168 118;  /* brighter olive for contrast */
+  --color-text: 237 232 224;     /* warm off-white */
+  --color-muted: 156 148 138;
+  --color-border: 58 53 45;
+}
+
+body {
+  background-color: rgb(var(--color-bg));
+  color: rgb(var(--color-text));
+}
+
+::selection {
+  background-color: rgb(var(--color-accent) / 0.25);
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgb(var(--color-border)) transparent;
+}
