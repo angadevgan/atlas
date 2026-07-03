@@ -20,15 +20,19 @@ A full-stack platform for uploading datasets, training ML models, testing predic
 
 ### Dataset Manager
 <!-- ![Datasets](./screenshots/datasets.png) -->
+<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/b6ea635c-89c2-4ec2-a868-88c5eade5a61" />
 
 ### Model Manager
 <!-- ![Models](./screenshots/models.png) -->
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/dc1c7a35-dd47-40a9-83da-367da4dc9a5c" />
 
 ### Prediction Playground
 <!-- ![Playground](./screenshots/playground.png) -->
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/f15c0ecc-1ca2-4f6f-bc01-a1ae7447407d" />
 
 ### Dark mode
 <!-- ![Dark mode](./screenshots/dark-mode.png) -->
+<img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/10a5d286-1732-4215-b833-0b419341a7f5" />
 
 ---
 
