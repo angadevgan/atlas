@@ -194,7 +194,7 @@ These are intentional scope decisions, documented here rather than discovered by
 - [ ] Swap in-process job queue for Celery + Redis
 - [ ] Support additional frameworks (XGBoost, LightGBM)
 
-## 👨‍💻 Author
+## Author
 
 **Angad Devgan**  
 Final Year CSE Student — CCET Chandigarh  
@@ -202,6 +202,6 @@ Final Year CSE Student — CCET Chandigarh
 
 ---
 
-## 📄 License
+## License
 
 MIT License — feel free to use this project as a reference.
