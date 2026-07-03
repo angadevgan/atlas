@@ -16,6 +16,7 @@ A full-stack platform for uploading datasets, training ML models, testing predic
 
 ### Dashboard
 <!-- ![Dashboard](./screenshots/dashboard.png) -->
+<img width="1895" height="912" alt="image" src="https://github.com/user-attachments/assets/bde78c57-8f83-4108-8c7d-313f649d878b" />
 
 ### Dataset Manager
 <!-- ![Datasets](./screenshots/datasets.png) -->
