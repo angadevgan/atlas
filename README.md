@@ -193,3 +193,15 @@ These are intentional scope decisions, documented here rather than discovered by
 - [ ] Docker + docker-compose for one-command local setup
 - [ ] Swap in-process job queue for Celery + Redis
 - [ ] Support additional frameworks (XGBoost, LightGBM)
+
+## 👨‍💻 Author
+
+**Angad Devgan**  
+Final Year CSE Student — CCET Chandigarh  
+[GitHub](https://github.com/angadevgan) · [LinkedIn](https://linkedin.com/in/angad-devgan)
+
+---
+
+## 📄 License
+
+MIT License — feel free to use this project as a reference.
