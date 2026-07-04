@@ -196,7 +196,7 @@ These are intentional scope decisions, documented here rather than discovered by
 
 ## Author
 
-**Angad Devgan**  
+**  Angad Devgan**  
 Final Year CSE Student — CCET Chandigarh  
 [GitHub](https://github.com/angadevgan) · [LinkedIn](https://linkedin.com/in/angad-devgan)
 
